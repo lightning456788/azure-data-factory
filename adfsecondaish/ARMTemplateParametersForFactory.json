@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "adfsecondaish"
+		},
+		"AzureKeyVault1_properties_typeProperties_baseUrl": {
+			"value": "https://devkeyvaultaish.vault.azure.net/"
 		}
 	}
 }
